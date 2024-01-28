@@ -8,10 +8,10 @@
 Juego siendo traducido de manera manual desde la versión japonesa original y la versión traducida al inglés e italiano.
 
 # Importante
-Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/REY3DS/YKW4_ES/issues).
+Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/ENOCH-VK/YWB2_ES/issues).
 
 # Instalación
-Descarga la última versión desde [***releases***](https://github.com/REY3DS/YKW4_ES/releases)
+Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/YWB2_ES/releases)
 
 # Se buscan nuevos integrantes
 Si estás interesado en traducir Yo-kai Watch Blasters 2 al español, crees que tienes la suficiente motivación para traducir por un largo período de tiempo y tienes un muy buen nivel de redacción así como cohesionar bien los textos, adaptar la traducción y no cometer faltas gramaticales ni ortográficas, entonces, bienvenido al equipo. Si no es tu caso, ¡también puedes ayudar con los sprites! Tan solo tienes que saber utilizar cualquier programa de edición, desde Photoshop y Gimp, hasta cualquier otro menos sofisticado pero que sirva para cambiar los textos de las imágenes. En cualquiera de ambos casos, contacta con el líder del equipo por mensaje directo en Discord (enoch_vk).
