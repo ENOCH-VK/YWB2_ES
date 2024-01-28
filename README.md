@@ -16,7 +16,7 @@ Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/
 # Se buscan nuevos integrantes
 Si estás interesado en traducir Yo-kai Watch Blasters 2 al español, crees que tienes la suficiente motivación para traducir por un largo período de tiempo y tienes un muy buen nivel de redacción así como cohesionar bien los textos, adaptar la traducción y no cometer faltas gramaticales ni ortográficas, entonces, bienvenido al equipo. Si no es tu caso, ¡también puedes ayudar con los sprites! Tan solo tienes que saber utilizar cualquier programa de edición, desde Photoshop y Gimp, hasta cualquier otro menos sofisticado pero que sirva para cambiar los textos de las imágenes. En cualquiera de ambos casos, contacta con el líder del equipo por mensaje directo en Discord (enoch_vk).
 
-# PROJECT MAKE A DREAM
+# Project Make a Dream
 Make a Dream es un servidor de Discord en el que están varias de las traducciones de los juegos de Yo-kai Watch al español, mangas, y fan-games hechos por la comunidad.
 Cualquier duda en el servidor, siempre contestamos.
 
