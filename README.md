@@ -15,7 +15,7 @@ Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/
 
 # Tutorial de descarga
 Desde el discord puedes ver los dos tutoriales de descarga que hay por el momento, el de Citra y el de 3DS.
-> [Tutoriales]([https://discord.gg/project-make-a-dream-846980324034347008](https://discord.com/channels/846980324034347008/1162320333764825118))
+> [Tutoriales](https://discord.com/channels/846980324034347008/1162320333764825118)
 
 # Se buscan nuevos integrantes
 Si estás interesado en traducir Yo-kai Watch Blasters 2 al español, crees que tienes la suficiente motivación para traducir por un largo período de tiempo y tienes un muy buen nivel de redacción así como cohesionar bien los textos, adaptar la traducción y no cometer faltas gramaticales ni ortográficas, entonces, bienvenido al equipo. Si no es tu caso, ¡también puedes ayudar con los sprites! Tan solo tienes que saber utilizar cualquier programa de edición, desde Photoshop y Gimp, hasta cualquier otro menos sofisticado pero que sirva para cambiar los textos de las imágenes. En cualquiera de ambos casos, contacta con el líder del equipo por mensaje directo en Discord (enoch_vk).
