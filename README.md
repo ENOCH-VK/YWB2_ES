@@ -26,4 +26,4 @@ Cualquier duda en el servidor, siempre contestamos.
 
 > [Discord](https://discord.gg/project-make-a-dream-846980324034347008)
 
-<img src="https://raw.githubusercontent.com/REY3DS/YKW4_ES/main/images/discordmakeadream.png">
+<img src="https://media.discordapp.net/attachments/1165235038217060492/1201233539690152167/Captura_de_pantalla_2024-01-28_193414.png?ex=65c912e9&is=65b69de9&hm=f90d64389659b322af94dfd4a38da6bea98928fc0772b78e2c9e0c626791d70c&=&format=webp&quality=lossless&width=746&height=419">
