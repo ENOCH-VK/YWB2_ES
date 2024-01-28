@@ -14,7 +14,9 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/YWB2_ES/releases)
 
 # Tutorial de descarga
+
 > [Tutorial de Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
+
 > [Tutorial de 3DS](https://www.youtube.com/watch?v=FtelkhlB1Rg&feature=youtu.be)
 
 # Se buscan nuevos integrantes
