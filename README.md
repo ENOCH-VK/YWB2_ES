@@ -14,11 +14,8 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/YWB2_ES/releases)
 
 # Tutorial de descarga
-Tutorial de Citra:
-> [Tutorial Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
-
-Tutorial de 3DS:
-> [Tutorial 3DS](https://www.youtube.com/watch?v=FtelkhlB1Rg&feature=youtu.be)
+> [Tutorial de Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
+> [Tutorial de 3DS](https://www.youtube.com/watch?v=FtelkhlB1Rg&feature=youtu.be)
 
 # Se buscan nuevos integrantes
 Si estás interesado en traducir Yo-kai Watch Blasters 2 al español, crees que tienes la suficiente motivación para traducir por un largo período de tiempo y tienes un muy buen nivel de redacción así como cohesionar bien los textos, adaptar la traducción y no cometer faltas gramaticales ni ortográficas, entonces, bienvenido al equipo. Si no es tu caso, ¡también puedes ayudar con los sprites! Tan solo tienes que saber utilizar cualquier programa de edición, desde Photoshop y Gimp, hasta cualquier otro menos sofisticado pero que sirva para cambiar los textos de las imágenes. En cualquiera de ambos casos, contacta con el líder del equipo por mensaje directo en Discord (enoch_vk).
