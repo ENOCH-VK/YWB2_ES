@@ -10,7 +10,7 @@ Juego siendo traducido de manera manual desde la versión japonesa original y la
 # Importante
 Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/ENOCH-VK/YWB2_ES/issues).
 
-# Instalación
+# Instalación de la traducción (TEXTO)
 Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/YWB2_ES/releases)
 
 ### Citra:
@@ -27,7 +27,7 @@ Para luma: `luma\titles\00040000001C9C00 y 00040000001C9400`
 ## Importante
 Activar parcheador de juegos de Luma3ds para que funcione la traducción.
 
-# Tutorial de instalación de la traducción
+# Instalación de la traducción (VÍDEO)
 
 > [Tutorial de Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
 
