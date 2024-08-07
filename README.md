@@ -13,6 +13,16 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 # Instalación
 Descarga la última versión desde [***releases***](https://github.com/ENOCH-VK/YWB2_ES/releases)
 
+### Citra:
+En el directorio de datos de Ryujinx:
+ - `/home/{USERNAME}/.config/Citra/` en **Linux**.
+ - `C:\users\{USERNAME}\AppData\Roaming\Citra` en **Windows**.
+
+Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...AppData\Roaming\Citra\load\mods\00040000001C9C00 y 00040000001C9400/`
+
+### Nintendo 3DS
+Para atmosphere: `Atmosphere/contents/0100c0000ceea000`
+
 # Tutorial de instalación de la traducción
 
 > [Tutorial de Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
