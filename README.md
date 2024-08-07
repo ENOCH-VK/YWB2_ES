@@ -18,11 +18,11 @@ En el directorio de datos de Citra:
  - `\home\{USERNAME}\.config\Citra\` en **Linux**.
  - `C:\users\{USERNAME}\AppData\Roaming\Citra` en **Windows**.
 
-Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...AppData\Roaming\Citra\load\mods\00040000001C9C00 y 00040000001C9400/`
+Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...AppData\Roaming\Citra\load\mods\00040000001C9C00 y 00040000001C9400\`
 
 ### Nintendo 3DS
 
-Para luma: `luma/titles/00040000001C9C00 y 00040000001C9400`
+Para luma: `luma\titles\00040000001C9C00 y 00040000001C9400`
 
 ## Importante
 Activar parcheador de juegos de Luma3ds para que funcione la traducción.
