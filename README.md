@@ -1,9 +1,8 @@
-div align="center">
+<div align="center">
     <img src="./images/logo.png"/>
     <a href="https://github.com/ENOCH-VK//YWB2_ES/stargazers"><img src="https://img.shields.io/github/stars/ENOCH-VK//YWB2_ES"/></a>
     <a href="https://github.com/ENOCH-VK/YWB2_ES/releases"><img src="https://img.shields.io/github/v/release/ENOCH-VK/YWB2_ES"/></a>
     <a href="https://github.com/ENOCH-VK/YWB2_ES/releases"><img src="https://img.shields.io/github/downloads/ENOCH-VK/YWB2_ES/total"/></a>
-    <a href="https://github.com/ENOCH-VK/YWB2_ESS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ENOCH-VK/YWB2_ES"/></a>
 </div>
 
 # Yo-Kai Watch Blasters 2 Espada y Magnum traduccion al español
