@@ -4,7 +4,7 @@
 
 </div>
 
-# Yo-Kai Watch Blasters 2 Traduccion al español
+# Yo-Kai Watch Blasters 2 Espada y Magnum traduccion al español
 Juego siendo traducido de manera manual desde la versión japonesa original y la versión traducida al inglés e italiano.
 
 # Importante
