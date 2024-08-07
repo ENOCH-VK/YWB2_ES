@@ -1,6 +1,5 @@
 <div align="center">
     <img src="./images/logo.png"/>
-    <a href="https://github.com/ENOCH-VK//YWB2_ES/stargazers"><img src="https://img.shields.io/github/stars/ENOCH-VK//YWB2_ES"/></a>
     <a href="https://github.com/ENOCH-VK/YWB2_ES/releases"><img src="https://img.shields.io/github/v/release/ENOCH-VK/YWB2_ES"/></a>
     <a href="https://github.com/ENOCH-VK/YWB2_ES/releases"><img src="https://img.shields.io/github/downloads/ENOCH-VK/YWB2_ES/total"/></a>
 </div>
