@@ -22,10 +22,10 @@ Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{.
 
 ### Nintendo 3DS
 
-## Importante
-Activar Luma3ds parcheador de juegos para que funcione la traducción.
-
 Para luma: `luma/titles/00040000001C9C00 y 00040000001C9400`
+
+## Importante
+Activar parcheador de juegos de Luma3ds para que funcione la traducción.
 
 # Tutorial de instalación de la traducción
 
