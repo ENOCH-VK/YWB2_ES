@@ -25,7 +25,7 @@ Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{.
 
 Para luma: `luma\titles\00040000001C9C00 y 00040000001C9400`
 
-## Importante
+# Importante
 Activar parcheador de juegos de Luma3ds para que funcione la traducción.
 
 # Instalación de la traducción (VÍDEO)
