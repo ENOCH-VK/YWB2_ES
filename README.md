@@ -1,9 +1,18 @@
 <div align="center">
     <img src="./images/ykwb2m.png"/>
     <img src="./images/ykwb2e.png"/>
+<div>
+    
+<table align="center">
+  <tr>
+    <td>
     <a href="https://github.com/ENOCH-VK/YWB2_ES/releases"><img src="https://img.shields.io/github/v/release/ENOCH-VK/YWB2_ES"/></a>
+    </td>
+    <td>
     <a href="https://github.com/ENOCH-VK/YWB2_ES/releases"><img src="https://img.shields.io/github/downloads/ENOCH-VK/YWB2_ES/total"/></a>
-</div>
+    </td>
+  </tr>
+</table>
 
 # Yo-Kai Watch Blasters 2 Espada y Magnum traduccion al español
 Juego siendo traducido de manera manual desde la versión japonesa original y la versión traducida al inglés e italiano.
