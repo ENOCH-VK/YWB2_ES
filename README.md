@@ -39,13 +39,13 @@ Activar parcheador de juegos de Luma3ds para que funcione la traducción.
 
 # Instalación de la traducción (VÍDEO)
 
-> [Tutorial de Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
+ [Tutorial de Citra](https://discord.com/channels/846980324034347008/1162320333764825118/1162323994549170227)
 
-> [Tutorial de Nintendo 3DS](https://www.youtube.com/watch?v=FtelkhlB1Rg&feature=youtu.be)
+ [Tutorial de Nintendo 3DS](https://www.youtube.com/watch?v=FtelkhlB1Rg&feature=youtu.be)
 
 
 # Project Make a Dream
 Make a Dream es un servidor de Discord en el que están varias de las traducciones de los juegos de Yo-kai Watch al español, mangas, y fan-games hechos por la comunidad.
 Cualquier duda en el servidor, siempre contestamos.
 
-> [Discord](https://discord.gg/project-make-a-dream-846980324034347008)
+ [Discord](https://discord.gg/project-make-a-dream-846980324034347008)
